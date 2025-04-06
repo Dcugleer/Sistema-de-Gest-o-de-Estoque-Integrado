@@ -7,10 +7,10 @@ Sistema completo para controle de estoque, integração com ERPs e separação d
 ## ✅ MVP - Etapas de Desenvolvimento
 
 ### 🧱 ETAPA 1: Estrutura Base do Sistema
-- [x] Cadastro de empresas (multi CNPJ)
-- [x] Cadastro de usuários
-- [x] Autenticação com permissões (admin, operador)
-- [x] Dashboard inicial por usuário
+- [ ] Cadastro de empresas (multi CNPJ)
+- [ ] Cadastro de usuários
+- [ ] Autenticação com permissões (admin, operador)
+- [ ] Dashboard inicial por usuário
 
 ### 📦 ETAPA 2: Cadastro de Produtos e Estoque
 - [ ] Cadastro de produtos (SKU, EAN, descrição)
@@ -44,7 +44,7 @@ Sistema completo para controle de estoque, integração com ERPs e separação d
 
 ---
 
-## 🔧 Tecnologias Sugeridas
+## 🔧 Tecnologias utilizadas
 
 | Componente | Stack |
 |------------|-------|
